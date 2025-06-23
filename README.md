@@ -14,7 +14,7 @@ Como pré-requisito, esse repositório carece das seguintes dependências no sis
 
 Para instalar esse repositório, basta executar:
 ```sh
-git clone ${URL}
+git clone git@github.com:varsnothing/cb.git
 npm ci
 ```
 

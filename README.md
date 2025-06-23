@@ -35,7 +35,8 @@ cp .env.public .env
 
 - Criar instância gratuita do MongoDB Cloud, ou rodar o servidor de MongoDB localmente (instalação nativa ou via Docker).
 
-Caso não queira criar uma instância no MongoDB Cloud, seguem nstruções para configurar ambiente local: https://www.mongodb.com/docs/manual/installation/
+Caso não queira criar uma instância no MongoDB Cloud, seguem instruções para configurar ambiente local: https://www.mongodb.com/docs/manual/installation/
+
 
 - Adicionar URI da instância da MongoDB na variável MONGO_URI.
 e.g. mongodb+srv://localhost:27017

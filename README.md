@@ -26,7 +26,7 @@ npm run start
 ```
 
 
-## Instruções para configurar:
+## Instruções para configurar
 
 - Copiar o arquivo .env.public para .env na raíz do diretório:
 ```sh
@@ -42,7 +42,7 @@ Caso não queira criar uma instância no MongoDB Cloud, seguem instruções para
 e.g. mongodb+srv://localhost:27017
 
 
-## Instruções para testar:
+## Instruções para testar
 
 O servidor roda, por padrão, na porta 3000.
 
